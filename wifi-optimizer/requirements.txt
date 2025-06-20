@@ -1,0 +1,8 @@
+# No external dependencies required - uses only Python standard library
+# This ensures the script works on any Windows system with Python installed
+
+# Optional development dependencies:
+# pytest>=6.0.0
+# pytest-cov>=2.0.0
+# black>=21.0.0
+# flake8>=3.9.0

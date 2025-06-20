@@ -1,0 +1,6 @@
+python-nmap
+schedule
+jinja2
+smtplib-ssl
+psutil
+colorama
