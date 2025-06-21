@@ -32,3 +32,4 @@ pyautogui.hotkey('ctrl', 's')  # Save email as draft
 time.sleep(1)
 
 print("Draft saved successfully!")
+

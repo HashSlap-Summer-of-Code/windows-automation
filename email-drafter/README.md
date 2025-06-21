@@ -16,3 +16,4 @@ Automates the creation of an Outlook draft email using `pyautogui`.
 
 ```bash
 pip install pyautogui
+
